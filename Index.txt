@@ -8,3 +8,5 @@
 	    <h1>Exercício GitHub</h1>
 	    <p>Testando sit com GitHub</p>
 	    <p>Olá, Mundo!</p>
+	</body>
+</html>
